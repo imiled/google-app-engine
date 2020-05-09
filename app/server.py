@@ -7,7 +7,7 @@ from io import BytesIO
 
 from fastai.vision import *
 
-model_file_url = 'https://www.googleapis.com/drive/v3/files/1-4q_np5lLY5XMWS8auIh5jXtxGyAZYHF?alt=media&key=AIzaSyB3kTHb_zo-S8tSc44IZtsZpiywkn-C-fQ'
+model_file_url = 'https://www.googleapis.com/drive/v3/files/187hNENqtOjIAmX9pufF01KVelW1F8I_w?alt=media&key=AIzaSyB3kTHb_zo-S8tSc44IZtsZpiywkn-C-fQ'
 model_file_name = 'model'
 classes = ['ane', 'zebre', 'antilope','cheval']
 path = Path(__file__).parent
