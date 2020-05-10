@@ -1,0 +1,47 @@
+https://www.googleapis.com/drive/v3/files/1-4q_np5lLY5XMWS8auIh5jXtxGyAZYHF?alt=media&key=AIzaSyD72LhuT0lnC98wKgruEhTbx_ZC0yMTrfI
+
+ficher for Render
+need ptkl
+model_file_url = 'https://www.googleapis.com/drive/v3/files/1-4q_np5lLY5XMWS8auIh5jXtxGyAZYHF?alt=media&key=AIzaSyB3kTHb_zo-S8tSc44IZtsZpiywkn-C-fQ'
+model_file_name = 'model'
+classes = ['ane', 'zebre', 'antilope','cheval']
+path = Path(__file__).parent
+
+
+Procedure pour deployer une app sur google cloud:
+https://course.fast.ai/deployment_google_app_engine.html
+
+Procedure pour generer un link direct pour telecharger un dcoument sur google drive
+https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/
+
+On a besoin d activer l api google drive sur le projet de google cloud
+On a besoin aussi de generer un api key
+
+Enter your Google Drive API Key:
+AIzaSyB3kTHb_zo-S8tSc44IZtsZpiywkn-C-fQ
+
+Enter a Google Drive sharing URL, for example,
+https://drive.google.com/open?id=1-4q_np5lLY5XMWS8auIh5jXtxGyAZYHF
+
+Google Drive Direct Link Generator for Image, MP3 and Video Files
+https://www.googleapis.com/drive/v3/files/1-4q_np5lLY5XMWS8auIh5jXtxGyAZYHF?alt=media&key=AIzaSyB3kTHb_zo-S8tSc44IZtsZpiywkn-C-fQ
+
+direct link avec la page https://rawdownload.now.sh/
+https://drive.google.com/uc?export=download&id=1-4q_np5lLY5XMWS8auIh5jXtxGyAZYHF
+
+
+fichier example 2 pth
+model equides
+https://drive.google.com/open?id=17zWinti2mp4W3mWER21gYThqKrVBu2s9
+
+lien de telechargement direct generé
+https://www.googleapis.com/drive/v3/files/17zWinti2mp4W3mWER21gYThqKrVBu2s9?alt=media&key=AIzaSyB3kTHb_zo-S8tSc44IZtsZpiywkn-C-fQ
+
+For goog cloud plateform:
+model_file_url = 'https://www.googleapis.com/drive/v3/files/187hNENqtOjIAmX9pufF01KVelW1F8I_w?alt=media&key=AIzaSyB3kTHb_zo-S8tSc44IZtsZpiywkn-C-fQ'
+model_file_name = 'model'
+classes = ['ane', 'zebre', 'antilope','cheval']
+path = Path(__file__).parent
+
+
+https://drive.google.com/open?id=187hNENqtOjIAmX9pufF01KVelW1F8I_w
