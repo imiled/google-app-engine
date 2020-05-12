@@ -1,5 +1,5 @@
 numpy==1.16.0rc1
-fastai
+git+https://github.com/fastai/fastai.git
 starlette
 uvicorn
 python-multipart
